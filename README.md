@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 **Software Developer**
 
-multi-language developer passionate about crafting distinctive digital experiences.
+Multi-language developer passionate about crafting distinctive digital experiences.
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&logo=kotlin&logoColor=white) 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
