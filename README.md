@@ -18,8 +18,3 @@ Here are some ideas to get you started:
 ## **Software Developer**
 
 Crafting distinctive digital experiences.
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=flat&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
