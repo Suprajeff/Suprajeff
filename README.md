@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 Crafting distinctive digital experiences.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suprajeff&theme=dark&bg_color=00000000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suprajeff&layout=compact&theme=dark&bg_color=00000000)
 
