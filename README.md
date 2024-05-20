@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 ## **Fullstack Software Developer**
 
 Crafting distinctive digital experiences.
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suprajeff&theme=dark&bg_color=00000000)
+
